@@ -37,6 +37,15 @@ Figure 02  Encoder 8 * 3
 **Procedure**
 
 /* write all the steps invloved */
+1.Create a new project in Quartus Prime and add a Verilog file.
+
+2.Write the encoder module using dataflow modelling with assign statements for outputs.
+
+3.Compile the design to check for errors.
+
+4.Simulate the design using test vectors from the truth table.
+
+5.Verify outputs and analyze RTL and timing diagrams for correct functionality.
 
 **PROGRAM**
 
